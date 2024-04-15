@@ -4,3 +4,8 @@ body {
   padding: 0;
   background-color: #f4f4f4;
 }
+.qr-container {
+  max-width: 500px;
+  width: 100%;
+  margin: auto; /* Centers the scanner */
+}
